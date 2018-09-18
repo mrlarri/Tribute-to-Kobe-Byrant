@@ -1,0 +1,103 @@
+html,body{
+  font-family:Source Serif Pro;
+  text-align:center;
+  min-width:260px;
+  color:#333;
+  background-image: url("http://homedesignlatest.site/wp-content/uploads/10/28/hardwood-pattern-court-floor-viewed-stock-photo-wood-floors-floor-basketball-hardwood-pattern-wood-floors-hd-court-wallpaper-photo-hd-basketball-hardwood.jpg");
+  background-repeat: repeat;
+  background-color: black;
+}
+#tribute-info{
+  font-size: 30px;
+  color: yellow;
+  text-shadow: 2px 2px 5px white;
+}
+
+#title{
+  font-family: Lobster;
+  font-size: 100px;
+  text-shadow: 4px 4px white;
+}
+#title:hover {
+  transform: scale(1.5);
+}
+#sub{
+  color: white;
+  font-size: 40px;
+  margin-top: -100px;
+  text-shadow: 2px 2px purple;
+ }
+#main{
+  margin-left:30px auto;
+  padding:15px;
+  border:0px;
+  border-radius:5px;
+ 
+}
+#image{
+  max-width: 60%; 
+  display: relative; 
+  height: auto;
+  margin-top: 20px;
+  margin-left: auto;
+  border-radius: 600px;
+  box-shadow: 10px 3px 200px #FFFF00; 
+  opacity: 0.7;
+}
+#image:hover {
+  opacity: 1;
+  background: yellow;
+}
+
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:85% auto;
+  border:10px;
+  background:#291c49;
+  border-radius: 800px;
+  opacity: 0.7;
+  
+}
+#img-caption {
+  margin:15px;
+  font-color: white;
+  font-size: 40px;
+}
+#headline{
+  margin-top:40px;
+  text-align:left;
+  color: black;
+  font-size:100px;
+  font-family:Tangerine;
+}
+ul{
+  max-width:5500px;
+  margin:0 auto;
+  text-align:left;
+  color: white;
+}
+li{
+  margin: 10px;
+  font-size: 20px;
+}
+.tribute-link {
+  color: black;
+  font-family: Lobster;
+}
+#caption {
+  font-wegiht: heavy;
+  font-size: 50px;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+#caption:hover {
+  background-color: yellow;
+  shadow-color: 2px 2px yellow;
+  color: black;
+}
+.kobe-quote{
+   font-size: 30px;
+   color: black;
+   margin-top: -20px auto;
+}
